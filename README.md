@@ -4,7 +4,7 @@
 
 This is a modular mini C compiler (Unfinished).
 
-It can translate a subset of C language into RISC assembly language.
+It can translate a subset of C language into MIPS assembly language.
 
 Currently it's unfinished ,there are still a lot of work to do. Help is welcomed.
 
