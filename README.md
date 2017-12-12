@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a modular mini C compiler (Unfinished).
+This is a modular mini C compiler.
 
 It can translate a subset of C language into MIPS assembly language.
 
